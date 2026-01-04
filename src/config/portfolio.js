@@ -73,11 +73,11 @@ const config = {
   // Projects
   projects: [
     {
-      title: 'Creative Portfolio',
-      description: 'A stunning portfolio website showcasing creative work with modern design.',
-      tech: ['React', 'CSS3', 'JavaScript'],
-      link: '#',
-      gradient: 'gradient-1'
+      title: "Dev Match",
+      description: "A platform to connect developers.",
+      tech: ["React", "Node.js", "MongoDB"],
+      gradient: "gradient-blue",
+      link: "https://github.com/LearningTrackOfSmrati/dev-match" // Correct GitHub link
     },
     {
       title: 'E-Commerce Platform',
