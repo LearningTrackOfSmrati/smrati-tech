@@ -19,7 +19,7 @@ const config = {
 
   // Contact Information
   contact: {
-    email: "tiwarismrati90@gmail.com",
+    email: "mailto:tiwarismrati90@gmail.com", // Updated to include mail link
     phone: "+91 7753060570",
     location: "Bangalore, India",
     whatsapp: "917753060570", // Format: country code + number (no + or spaces)
