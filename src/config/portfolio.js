@@ -19,7 +19,7 @@ const config = {
 
   // Contact Information
   contact: {
-    email: "tiwarismrati90@gmail.com",
+    email: "mailto:tiwarismrati90@gmail.com", // Updated to include mail link
     phone: "+91 7753060570",
     location: "Bangalore, India",
     whatsapp: "917753060570", // Format: country code + number (no + or spaces)
@@ -125,8 +125,8 @@ const config = {
 
   // CV/Resume
   cv: {
-    downloadLink: '/Smrati_Tiwari_FullStack_Resume.pdf', // Path to your CV in the public folder
-    fileName: 'Smrati_Tiwari_FullStack_Resume.pdf' // Name of the file when downloaded
+    downloadLink: '/Smrati_Tiwari_Full_Stack_Engineer.pdf', // Path to your CV in the public folder
+    fileName: 'Smrati_Tiwari_Full_Stack_Engineer.pdf' // Name of the file when downloaded
   }
 }
 
