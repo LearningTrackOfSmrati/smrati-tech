@@ -125,8 +125,8 @@ const config = {
 
   // CV/Resume
   cv: {
-    downloadLink: '/Smrati_Tiwari_FullStack_Resume.pdf', // Path to your CV in the public folder
-    fileName: 'Smrati_Tiwari_FullStack_Resume.pdf' // Name of the file when downloaded
+    downloadLink: '/Smrati_Tiwari_Full_Stack_Engineer.pdf', // Path to your CV in the public folder
+    fileName: 'Smrati_Tiwari_Full_Stack_Engineer.pdf' // Name of the file when downloaded
   }
 }
 
