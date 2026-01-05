@@ -10,7 +10,7 @@ const config = {
   // Personal Information
   personal: {
     name: "Smrati Tiwari",
-    title: "Senior Software Engineer at Cognizant",
+    title: "Software Engineer at Cognizant",
     tagline: "Hello, I'm",
     description: "A passionate Full Stack Developer with expertise in building scalable web applications and a knack for creative design.",
     photo: '/Smrati_Tiwari_Photo.jpeg', // Leave null to use default gradient, or provide path to image
