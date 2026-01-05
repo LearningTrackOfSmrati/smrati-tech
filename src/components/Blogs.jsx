@@ -27,6 +27,22 @@ const Blogs = () => {
             </article>
           ))}
         </div>
+        <a
+          href="https://your-blog-link.com" // Replace with your actual blog URL
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            display: 'inline-block',
+            marginTop: '10px',
+            padding: '10px 20px',
+            backgroundColor: '#007BFF',
+            color: '#fff',
+            textDecoration: 'none',
+            borderRadius: '5px',
+          }}
+        >
+          Visit My Blog
+        </a>
       </div>
     </section>
   )
