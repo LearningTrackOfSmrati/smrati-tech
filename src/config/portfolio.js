@@ -7,6 +7,7 @@ const config = {
     logo: "Smrati Tech", // Your brand name or leave as "Portfolio"
   },
 
+  
   // Personal Information
   personal: {
     name: "Smrati Tiwari",
