@@ -10,9 +10,9 @@ const config = {
   // Personal Information
   personal: {
     name: "Smrati Tiwari",
-    title: "Creative Developer & Designer",
+    title: "Senior Software Engineer at Cognizant",
     tagline: "Hello, I'm",
-    description: "I craft beautiful digital experiences with passion and precision. Welcome to my creative space!",
+    description: "A passionate Full Stack Developer with expertise in building scalable web applications and a knack for creative design.",
     photo: '/Smrati_Tiwari_Photo.jpeg', // Leave null to use default gradient, or provide path to image
     coreSkills: ['React', 'NodeJS', 'TypeScript', 'MERN'], // Skills to show as floating badges in hero
   },
