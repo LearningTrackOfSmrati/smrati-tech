@@ -19,7 +19,7 @@ const config = {
 
   // Contact Information
   contact: {
-    email: "mailto:tiwarismrati90@gmail.com", // Updated to include mail link
+    email: "tiwarismrati90@gmail.com", // Updated to include mail link
     phone: "+91 7753060570",
     location: "Bangalore, India",
     whatsapp: "917753060570", // Format: country code + number (no + or spaces)
@@ -27,9 +27,8 @@ const config = {
 
   // Social Media Links
   social: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    twitter: "https://twitter.com/yourusername",
+    github: "https://github.com/LearningTrackOfSmrati",
+    linkedin: "https://www.linkedin.com/in/sm-tiwari",
   },
 
   // About Section
@@ -80,17 +79,17 @@ const config = {
       link: "https://github.com/LearningTrackOfSmrati/dev-match" // Correct GitHub link
     },
     {
-      title: 'E-Commerce Platform',
-      description: 'Beautiful online store with smooth user experience and elegant design.',
-      tech: ['React', 'Node.js', 'MongoDB'],
-      link: '#',
+      title: 'E-Commerce',
+      description: 'Simple fullfeatured e-commerce application.',
+      tech: ['React', 'Node.js', 'MongoDB', 'Express.js'],
+      link: 'https://github.com/LearningTrackOfSmrati/FoodOrderWebsite',
       gradient: 'gradient-2'
     },
     {
-      title: 'Design System',
-      description: 'Comprehensive design system with reusable components and patterns.',
-      tech: ['Figma', 'React', 'Storybook'],
-      link: '#',
+      title: 'Personal Portfolio',
+      description: 'A personal portfolio website to showcase projects and skills.',
+      tech: ['React', 'CSS', 'JavaScript'],
+      link: 'https://github.com/LearningTrackOfSmrati/smrati-tech',
       gradient: 'gradient-1'
     }
   ],
